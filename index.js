@@ -8,3 +8,5 @@ let imgURL = "https://estnn.com/wp-content/uploads/2019/11/Nigma-Esports-300x300
 document.querySelector("body").insertAdjacentHTML("beforeend", generateImage(imgURL))
 
 console.log("kệ")
+
+console.log("Push thử commit")
