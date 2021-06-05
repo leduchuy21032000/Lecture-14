@@ -13,4 +13,6 @@ console.log("Push thử commit")
 
 console.log("Push thử commit lần 2")
 
-console.log("Push thử commit lần 3")
+console.log("Commit lần 3")
+
+console.log("Commit lần 4")
