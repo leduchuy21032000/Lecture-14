@@ -14,3 +14,5 @@ console.log("Push thử commit")
 console.log("Push thử commit lần 2")
 
 console.log("Commit lần 3")
+
+console.log("Cho có conflict nè")
