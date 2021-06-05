@@ -2,3 +2,7 @@ body{
     background-color: yellow;
 }
 /* nhin mau xanh xau qua, doi sang vang */
+
+.round{
+    border-radius: 20px;
+}
