@@ -19,3 +19,5 @@ console.log("Cho có conflict nè")
 console.log("Commit lần 4")
 
 console.log("branch login first commit")
+
+console.log("branch login second commit")
