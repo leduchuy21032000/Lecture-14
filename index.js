@@ -10,3 +10,5 @@ document.querySelector("body").insertAdjacentHTML("beforeend", generateImage(img
 console.log("kệ")
 
 console.log("Push thử commit")
+
+console.log("Push thử commit lần 2")
